@@ -1,2 +1,7 @@
 streamlit
-openai
+opencv-python-headless
+numpy
+tensorflow
+rembg
+pillow
+onnxruntime
